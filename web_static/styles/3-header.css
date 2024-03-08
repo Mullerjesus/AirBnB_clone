@@ -7,8 +7,7 @@ header {
   align-items: center; /* Align logo vertically */
 }
 
-.logo-placeholder {
+header .logo-placeholder {
   flex: 0 0 20px; /* Reserve 20px space for logo */
   background-color: #ddd; /* Optional visual indicator for logo area */
 }
-
